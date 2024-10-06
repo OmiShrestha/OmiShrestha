@@ -35,9 +35,9 @@
 - 💼 **LinkedIn:** [omishrestha](https://www.linkedin.com/in/omishrestha)
 - 🐦 **Twitter:** [theomigod](https://twitter.com/theomigod)
 
-## 🚀 Fun Facts
+## 🚀 Hobbies & Interests
 
-- 🏅 **High School Soccer Team**
-- 🎤 **Middle School Music Band**
-- 💪 **Critical Thinker & Quick Learner**
-- 🌟 **Inspired by:** My 2-year-old niece's positive energy
+- ⚽️  **Soccer (Real Madrid)**
+- 🎤 **Musician/Guitarist**
+- 💪 **Workout**
+- 🌟 **Inspired by:**
