@@ -1,12 +1,12 @@
 ## 👋 Hello, I'm Omi Shrestha!
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
 - 🖥️ **Computer Science Junior** at the University of Scranton
 - 🎓 **Majoring in:** Computer Science
 - 💼 **Current Job:** McDonald's
 - 📚 **Current Studies:** Operating Systems, Computer Architecture, Introduction to Database
-- ⚽ **Passions:** Soccer (Real Madrid fan) & Photography
+- ⚽ **Passions:** Soccer (Real Madrid) & Photography
 - 🎸 **Musician:** Guitar player, Arctic Monkeys fan
 
 ## 💡 Interests & Projects
