@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Omi Shrestha!
+## 👋 Hey!
 
 ## 👨‍💻 About Me
 
