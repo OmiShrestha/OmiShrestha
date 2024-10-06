@@ -1,4 +1,4 @@
-## 👋 Hey!
+## 👋 Hey! My name is Omi Shrestha
 
 - 🖥️ **Computer Science Junior** at the University of Scranton
 - 🎓 **Majoring in:** Computer Science
