@@ -32,12 +32,12 @@
 ## 📬 Contact Me
 
 - 📧 **Email:** [omishrestha7@gmail.com](mailto:omishrestha7@gmail.com)
-- 💼 **LinkedIn:** [omishrestha](https://www.linkedin.com/in/omishrestha)
-- 🐦 **Twitter:** [theomigod](https://twitter.com/theomigod)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/omishrestha)
+- 🐦 **Twitter:** [instagram](https://instagram.com/omishrestha)
 
 ## 🚀 Hobbies & Interests
 
 - ⚽️  **Soccer (Real Madrid)**
 - 🎤 **Musician/Guitarist**
 - 💪 **Workout**
-- 🌟 **Inspired by:**
+
