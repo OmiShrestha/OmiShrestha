@@ -38,15 +38,8 @@
 - 🎤 **Musician/Guitarist**
 - 💪 **Workout**
 - <details>
-  <summary>🌟 About Me</summary>
   <ul>
-    <li>🖥️ <strong>Computer Science Junior</strong> at the University of Scranton</li>
-    <li>🎓 <strong>Majoring in:</strong> Computer Science, Engineering, Math, Finance, Statistics, or related fields</li>
-    <li>💼 <strong>Current Job:</strong> McDonald's</li>
-    <li>📚 <strong>Current Studies:</strong> Psychology and St. Augustine's 'The Confessions'</li>
-    <li>🌐 <strong>Green Card Holder:</strong> USA</li>
-    <li>⚽ <strong>Passions:</strong> Soccer (Real Madrid fan) & Photography</li>
-    <li>🎸 <strong>Musician:</strong> Guitar player, Arctic Monkeys fan</li>
+    <li> Don't skip leg day </li>
   </ul>
-</details>
+  </details>
 
