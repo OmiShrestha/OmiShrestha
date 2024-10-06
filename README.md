@@ -30,11 +30,11 @@
 
 - 📧 **Email:** [omishrestha7@gmail.com](mailto:omishrestha7@gmail.com)
 - 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/omishrestha)
-- 🐦 **Instagram:** [click](https://instagram.com/omishrestha)
+- 🐦 **Instagram:** [click here](https://instagram.com/omishrestha)
 
 ## 🚀 Hobbies & Interests
 
-- ⚽️  **Soccer (Real Madrid)**
+- ⚽️ **Soccer (Real Madrid)**
 - 🎤 **Musician/Guitarist**
 - 💪 **Workout**
 
