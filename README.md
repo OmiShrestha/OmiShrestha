@@ -12,7 +12,8 @@
 - 🎨 **UI/UX Design**
 - 📊 **Product Management & Data Analysis**
 - 📝 **Writing SQL Queries & Relational Algebra**
-- 📷 **Photography:**
+- 📷 **Photography**
+- 🎶 **Music**
 
 ## 🌱 Currently Learning
 
