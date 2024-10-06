@@ -37,7 +37,7 @@
 - ⚽️ **Soccer (Real Madrid)**
 - 🎤 **Musician/Guitarist**
 - 💪 **Workout**
-- <>
+- <**Workout**>
   <ul>
     <li> Don't skip leg day </li>
   </ul>
