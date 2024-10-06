@@ -34,10 +34,9 @@
 
 ## 🚀 Hobbies & Interests
 
-- ⚽️ **Soccer (Real Madrid)**
-- 🎤 **Musician/Guitarist**
-- 💪 **Workout**
-- <details>
+⚽️ **Soccer (Real Madrid)**
+🎤 **Musician/Guitarist**
+<details>
   <summary>💪 Workout</summary>
   <ul>
     <li>Don't skip leg day</li>
