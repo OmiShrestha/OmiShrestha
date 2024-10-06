@@ -1,7 +1,5 @@
 ## 👋 Hey!
 
-## 👨‍💻 About Me
-
 - 🖥️ **Computer Science Junior** at the University of Scranton
 - 🎓 **Majoring in:** Computer Science
 - 💼 **Current Job:** McDonald's
