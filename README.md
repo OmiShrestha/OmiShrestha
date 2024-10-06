@@ -41,9 +41,3 @@
 - 🎤 **Middle School Music Band**
 - 💪 **Critical Thinker & Quick Learner**
 - 🌟 **Inspired by:** My 2-year-old niece's positive energy
-
----
-
-Feel free to explore my repositories and connect with me!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
