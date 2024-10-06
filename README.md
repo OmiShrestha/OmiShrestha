@@ -31,9 +31,9 @@
 
 ## 📬 Contact Me
 
-- 📧 **Email:** [Your Email](mailto:omishrestha7@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/omishrestha)
-- 🐦 **Twitter:** [Your Twitter](https://twitter.com/theomigod)
+- 📧 **Email:** [Email](mailto:omishrestha7@gmail.com)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/omishrestha)
+- 🐦 **Twitter:** [Twitter](https://twitter.com/theomigod)
 
 ## 🚀 Fun Facts
 
