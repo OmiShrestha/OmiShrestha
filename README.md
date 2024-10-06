@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 ## 🌟 About Me
 
 - 🖥️ **Computer Science Junior** at the University of Scranton
-- 🎓 **Majoring in:** Computer Science, Engineering, Math, Finance, Statistics, or related fields
+- 🎓 **Majoring in:** Computer Science
 - 💼 **Current Job:** McDonald's
-- 📚 **Current Studies:** Psychology and St. Augustine's 'The Confessions'
-- 🌐 **Green Card Holder:** USA
+- 📚 **Current Studies:** Operating Systems, Computer Architecture, Introduction to Database
 - ⚽ **Passions:** Soccer (Real Madrid fan) & Photography
 - 🎸 **Musician:** Guitar player, Arctic Monkeys fan
 
