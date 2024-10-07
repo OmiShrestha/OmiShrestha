@@ -3,7 +3,7 @@
 - 🎓 **Education:** B.S. in Computer Science
 - 📍 **Location:** Scranton, PA
 - 💼 **Current Job:** McDonald's
-- 🔗 **LinkedIn:** [linked.com/in/omishrestha](https://www.linkedin.com/in/omishrestha)
+- 🔗 **LinkedIn:** [linkedin.com/in/omishrestha](https://www.linkedin.com/in/omishrestha)
 - 📚 **Current Studies:** Operating Systems, Computer Architecture, Introduction to Database
 
 ## ⚙️ Skills
