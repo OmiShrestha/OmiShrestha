@@ -22,7 +22,7 @@
 ## 🌱 Currently Learning
 - 📖 **Advanced Shell Features**
 - 🛠️ **C Programming using Xcode and Terminal**
-- ### 🌐 **Courses** ###
+- 🌐 **Courses**
 
 ## 🔍 Seeking Opportunities
 - 🎓 **Internships in:** Data Science, Software Engineering, Data Analysis, IT, Product Management
