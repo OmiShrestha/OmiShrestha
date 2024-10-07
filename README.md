@@ -66,3 +66,11 @@
   </ul>
 </details>
 
+<details>
+  <summary>🎥 Movies </summary>
+  <ul>
+    <li> How I Met Your Mother </li>
+    <li> Brooklyn Nine-Nine </li>
+  </ul>
+</details>
+
