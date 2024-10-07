@@ -23,7 +23,7 @@
 - 📖 **Advanced Shell Features**
 - 🛠️ **C Programming using Xcode and Terminal**
 <details>
-  <summary> 🌐 **Courses** </summary>
+  <summary><strong> 🌐 Courses </strong></summary>
   <ul>
     <li> CMPS 340 - Introduction to Database </li>
     <li> CMPS 350 - Computer Architecture </li>
