@@ -1,8 +1,9 @@
 ## 👋 Hey! My name is Omi Shrestha
 
-- 🎓 **Education:** B.S. in Computer Science
-- 📍  **Location:** Scranton, PA
+- 🎓 ** Education:** B.S. in Computer Science
+- 📍 **Location:** Scranton, PA
 - 💼 **Current Job:** McDonald's
+- 🔗 **LinkedIn:**
 - 📚 **Current Studies:** Operating Systems, Computer Architecture, Introduction to Database
 
 ## ⚙️ Skills
