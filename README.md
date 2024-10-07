@@ -65,7 +65,7 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 </details>
 
 <details>
-  <summary>🎥 Movies </summary>
+  <summary>📺 TV Shows </summary>
   <ul>
     <li> How I Met Your Mother </li>
     <li> Brooklyn Nine-Nine </li>
