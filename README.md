@@ -5,8 +5,14 @@
 - 💼 **Current Job:** McDonald's
 - 📚 **Current Studies:** Operating Systems, Computer Architecture, Introduction to Database
 
+## ⚙️ Skills
+- Programming Languages: Java, Python, C, C++, Swift
+- Web Technologies: HTML, CSS, JavaScript
+- Database Management: SQL (MySQL, Workbench)
+- Framework: Swift UI
+- Version Control: GitHub, Gitlab
+  
 ## 💡 Interests
-
 - 🧠 **Data Science & AI**
 - 👨‍💻 **Software Engineering**
 - 🎨 **UI/UX Design**
@@ -15,34 +21,21 @@
 - 🎶 **Music**
 - 📷 **Photography**
 
-## ⚙️ Skills
-
-- Programming Languages: Java, Python, C, C++, Swift
-- Web Technologies: HTML, CSS, JavaScript
-- Database Management: SQL (MySQL, Workbench)
-- Framework: Swift UI
-- Version Control: GitHub, Gitlab
-
-
 ## 🌱 Currently Learning
-
 - 📖 **Advanced Shell Features**
 - 🛠️ **C Programming using Xcode and Terminal**
 - 🌐 **MacOS Updates & Features**
 
 ## 🔍 Seeking Opportunities
-
 - 🎓 **Internships in:** Data Science, Software Engineering, Data Analysis, IT, Product Management
 - 🚀 **Excited for:** Real-world experience & Innovative Projects
 
-## 📬 Contact Me
-
+## 📬 Get in Touch
 - 📧 **Email:** [omishrestha7@gmail.com](mailto:omishrestha7@gmail.com)
 - 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/omishrestha)
 - 🐦 **Instagram:** [click here](https://instagram.com/omishrestha)
 
 ## 🚀 Hobbies & Interests
-
 <details>
   <summary>⚽️ Soccer</summary>
   <ul>
