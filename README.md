@@ -4,7 +4,6 @@
 - 📍 **Location:** Scranton, PA
 - 💼 **Current Job:** McDonald's
 - 🔗 **LinkedIn:** [linkedin.com/in/omishrestha](https://www.linkedin.com/in/omishrestha)
-- 📚 **Current Studies:** Operating Systems, Computer Architecture, Introduction to Database
 
 ## ⚙️ Skills
 - **Programming Languages:** Java, Python, C, C++, Swift
