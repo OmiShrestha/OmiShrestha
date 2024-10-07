@@ -18,6 +18,7 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 - 🧠 **Database & Data Science**
 - 👨‍💻 **Software Engineering**
 - 🎨 **UI/UX Design**
+- 🔧 **Information Technology**
 - 📊 **Product Management & Data Analysis**
 
 ## 🌱 Currently Learning
