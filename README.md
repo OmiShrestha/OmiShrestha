@@ -55,13 +55,6 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 </details>
 
 <details>
-  <summary>💪 Workout</summary>
-  <ul>
-    <li>Don't skip leg day</li>
-  </ul>
-</details>
-
-<details>
   <summary>🎥 Movies </summary>
   <ul>
     <li> The Dark Knight </li>
@@ -76,6 +69,13 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
   <ul>
     <li> How I Met Your Mother </li>
     <li> Brooklyn Nine-Nine </li>
+  </ul>
+</details>
+
+<details>
+  <summary>💪 Workout</summary>
+  <ul>
+    <li>Don't skip leg day</li>
   </ul>
 </details>
 
