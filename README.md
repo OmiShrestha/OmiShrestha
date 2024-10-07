@@ -1,7 +1,7 @@
 ## 👋 Hey! My name is Omi Shrestha
 
-- 🖥️ **Computer Science Junior** at the University of Scranton
-- 🎓 **Majoring in:** Computer Science
+- 🎓 **Education:** B.S. in Computer Science
+- 📍  **Location:** Scranton, PA
 - 💼 **Current Job:** McDonald's
 - 📚 **Current Studies:** Operating Systems, Computer Architecture, Introduction to Database
 
