@@ -1,4 +1,6 @@
-## 👋 Hey! My name is Omi Shrestha
+## 👋 Hey!
+
+Hi! I’m Omi Shrestha, a Computer Science student at the University of Scranton, currently pursuing my bachelor’s degree in Computer Science. I have a keen interest in data science, software developement, and AI/ML.
 
 - 🎓 **Education:** B.S. in Computer Science
 - 📍 **Location:** Scranton, PA
