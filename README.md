@@ -45,7 +45,7 @@
   <summary> 🎵 Music </summary>
   <ul>
     <li> Guitar </li>
-    <li> Hiphop </li>
+    <li> Hip-hop & RnB </li>
   </ul>
 </details>
 
