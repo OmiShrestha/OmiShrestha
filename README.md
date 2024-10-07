@@ -56,3 +56,13 @@
   </ul>
 </details>
 
+<details>
+  <summary>🎥 Movies </summary>
+  <ul>
+    <li> The Dark Knight </li>
+    <li> Lord of the Rings Trilogy </li>
+    <li> Shutter Island </li>
+    <li> The Prestige </li>
+  </ul>
+</details>
+
