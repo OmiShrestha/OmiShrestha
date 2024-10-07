@@ -34,8 +34,21 @@
 
 ## 🚀 Hobbies & Interests
 
-⚽️ **Soccer (Real Madrid)**
-🎤 **Musician/Guitarist**
+<details>
+  <summary>⚽️ Soccer</summary>
+  <ul>
+    <li>Real Madrid</li>
+  </ul>
+</details>
+
+<details>
+  <summary> 🎵 Music </summary>
+  <ul>
+    <li> Guitar </li>
+    <li> Hiphop </li>
+  </ul>
+</details>
+
 <details>
   <summary>💪 Workout</summary>
   <ul>
