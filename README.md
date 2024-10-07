@@ -15,6 +15,11 @@
 - 🎶 **Music**
 - 📷 **Photography**
 
+# Programming Languages: Java, Python, R, Assembly, C, SQL
+Web Development: HTML, CSS, JavaScript, Next.js, React.js
+Data Science & AI: PyTorch, Keras, Scikit-learn, numpy, pandas, ggplot2
+Tools & Platforms: CLI, Git, GitHub, REST APIs, macOS, UNIX, LINIX,
+
 ## 🌱 Currently Learning
 
 - 📖 **Advanced Shell Features**
