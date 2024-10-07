@@ -7,11 +7,11 @@
 - 📚 **Current Studies:** Operating Systems, Computer Architecture, Introduction to Database
 
 ## ⚙️ Skills
-- Programming Languages: Java, Python, C, C++, Swift
-- Web Technologies: HTML, CSS, JavaScript
-- Database Management: SQL (MySQL, Workbench)
-- Framework: Swift UI
-- Version Control: GitHub, Gitlab
+- **Programming Languages:** Java, Python, C, C++, Swift
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Database Management:** SQL (MySQL, Workbench)
+- **Framework:** Swift UI
+- **Version Control:** GitHub, Gitlab
   
 ## 💡 Interests
 - 🧠 **Database & Data Science**
@@ -22,7 +22,7 @@
 ## 🌱 Currently Learning
 - 📖 **Advanced Shell Features**
 - 🛠️ **C Programming using Xcode and Terminal**
-- 🌐 **MacOS Updates & Features**
+- ### 🌐 **Courses** ###
 
 ## 🔍 Seeking Opportunities
 - 🎓 **Internships in:** Data Science, Software Engineering, Data Analysis, IT, Product Management
