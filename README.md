@@ -11,7 +11,7 @@
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Database Management:** SQL (MySQL, Workbench)
 - **Framework:** Swift UI
-- **Version Control:** GitHub, Gitlab
+- **Version Control:** Github, Gitlab
   
 ## 💡 Interests
 - 🧠 **Database & Data Science**
