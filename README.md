@@ -14,13 +14,10 @@
 - Version Control: GitHub, Gitlab
   
 ## 💡 Interests
-- 🧠 **Data Science & AI**
+- 🧠 **Database & Data Science**
 - 👨‍💻 **Software Engineering**
 - 🎨 **UI/UX Design**
 - 📊 **Product Management & Data Analysis**
-- 📝 **Writing SQL Queries & Relational Algebra**
-- 🎶 **Music**
-- 📷 **Photography**
 
 ## 🌱 Currently Learning
 - 📖 **Advanced Shell Features**
