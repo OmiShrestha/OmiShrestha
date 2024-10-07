@@ -31,10 +31,6 @@
   </ul>
 </details>
 
-## 🔍 Seeking Opportunities
-- 🎓 **Internships in:** Data Science, Software Engineering, Data Analysis, IT, Product Management
-- 🚀 **Excited for:** Real-world experience & Innovative Projects
-
 ## 📬 Get in Touch
 - 📧 **Email:** [omishrestha7@gmail.com](mailto:omishrestha7@gmail.com)
 - 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/omishrestha)
