@@ -1,4 +1,4 @@
-## 👋 Hey!
+## 🙏 Namaste! 
 
 Hi! I’m Omi Shrestha, a Junior Computer Science student at the University of Scranton, pursuing my bachelor’s degree in Computer Science. I have a key interests in data science, software developement, and AI/ML.
 
