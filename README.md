@@ -22,8 +22,7 @@
 ## 🌱 Currently Learning
 - 📖 **Advanced Shell Features**
 - 🛠️ **C Programming using Xcode and Terminal**
-- 🌐 **Courses**
-- <details>
+<details>
   <summary> 🌐 **Courses** </summary>
   <ul>
     <li> CMPS 340 - Introduction to Database </li>
