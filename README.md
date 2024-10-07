@@ -23,6 +23,14 @@
 - 📖 **Advanced Shell Features**
 - 🛠️ **C Programming using Xcode and Terminal**
 - 🌐 **Courses**
+- <details>
+  <summary> 🌐 **Courses** </summary>
+  <ul>
+    <li> CMPS 340 - Introduction to Database </li>
+    <li> CMPS 350 - Computer Architecture </li>
+    <li> CMPS 352 - Operating Systems </li>
+  </ul>
+</details>
 
 ## 🔍 Seeking Opportunities
 - 🎓 **Internships in:** Data Science, Software Engineering, Data Analysis, IT, Product Management
