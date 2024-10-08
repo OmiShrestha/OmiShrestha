@@ -69,6 +69,7 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
   <ul>
     <li> How I Met Your Mother </li>
     <li> Brooklyn Nine-Nine </li>
+    <li> Impractical Jokers </li>
   </ul>
 </details>
 
