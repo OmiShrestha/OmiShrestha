@@ -4,7 +4,6 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 
 - 🎓 **Education:** B.S. in Computer Science
 - 📍 **Location:** Scranton, PA
-- 💼 **Current Job:** McDonald's (Part-Time)
 - 🔗 **LinkedIn:** [linkedin.com/in/omishrestha](https://www.linkedin.com/in/omishrestha)
 
 ## ⚙️ Skills
@@ -17,7 +16,6 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 ## 💡 Interests
 - 🧠 **Database & Data Science**
 - 👨‍💻 **Software Engineering**
-- 🎨 **UI/UX Design**
 - 🔧 **Information Technology**
 - 📊 **Product Management & Data Analysis**
 
@@ -34,7 +32,7 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 </details>
 
 ## 📬 Get in Touch
-- 📧 **Email:** [omishrestha7@gmail.com](mailto:omishrestha7@gmail.com)
+- 📧 **Email:** [work.omishrestha@gmail.com](mailto:work.omishrestha@gmail.com)
 - 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/omishrestha)
 - 🐦 **Instagram:** [click here](https://instagram.com/omishrestha)
 
