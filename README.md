@@ -22,6 +22,7 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 ## 🌱 Currently Learning
 - 📖 **Advanced Shell Features**
 - 🛠️ **C Programming using Xcode and Terminal**
+- 📊 **Tableau (Public)**
 <details>
   <summary><strong> 🌐 Courses </strong></summary>
   <ul>
