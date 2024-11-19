@@ -47,5 +47,5 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omishrestha&show_icons=true&locale=en" alt="omishrestha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omishrestha&" alt="omishrestha" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omishrestha&" alt="omishrestha" /></p>
 
