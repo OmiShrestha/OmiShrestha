@@ -38,6 +38,10 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 - 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/omishrestha)
 - 🐦 **Instagram:** [click here](https://instagram.com/omishrestha)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omishrestha&label=Profile%20views&color=0e75b6&style=flat" alt="omishrestha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omishrestha" alt="omishrestha" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omishrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omishrestha" height="30" width="40" /></a>
@@ -51,5 +55,4 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omishrestha&show_icons=true&locale=en" alt="omishrestha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omishrestha&" alt="omishrestha" /></p>
-
 
