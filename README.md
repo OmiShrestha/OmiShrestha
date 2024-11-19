@@ -38,13 +38,6 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 - 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/omishrestha)
 - 🐦 **Instagram:** [click here](https://instagram.com/omishrestha)
 
-<h1 align="center">Hi 👋, I'm Omi Shrestha</h1>
-<h3 align="center">Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bachelor’s degree in Computer Science. I have key interests in data science, software developement, information technology, and AI/ML.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omishrestha&label=Profile%20views&color=0e75b6&style=flat" alt="omishrestha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omishrestha" alt="omishrestha" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omishrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omishrestha" height="30" width="40" /></a>
