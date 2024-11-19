@@ -38,7 +38,6 @@ Hi! I’m Omi Shrestha, a Junior at the University of Scranton, pursuing my bach
 - 📧 **Email:** [work.omishrestha@gmail.com](mailto:work.omishrestha@gmail.com)
 <p align="left">
 <a href="https://linkedin.com/in/omishrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omishrestha" height="30" width="40" /></a>
-</p>
 <a href="https://instagram.com/omishrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omishrestha" height="30" width="40" /></a>
 </p>
 
