@@ -1,2 +1,2 @@
 work.omishrestha@gmail.com
-linkedin.com/omishrestha
+[LinkedIn Profile](https://linkedin.com/omishrestha)
