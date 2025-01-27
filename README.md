@@ -1,1 +1,1 @@
-www.linkedin.com/omishrestha | work.omishrestha@gmail.com
+www.linkedin.com/in/omishrestha | work.omishrestha@gmail.com
