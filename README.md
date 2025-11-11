@@ -1,3 +1,3 @@
 www.linkedin.com/in/omishrestha | work.omishrestha@gmail.com
 
-Experience with Embedded & IoT Systems
+Experience in Embedded & IoT Systems
